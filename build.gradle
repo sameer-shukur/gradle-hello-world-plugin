@@ -70,8 +70,8 @@ publishing {
 }
 
 bintray {
-    user = bintrayUser
-    key = bintrayKey
+    user = sameer
+    key = 9dbf4bb9e314b929737df881e92621da9c9f8a42
     publications = ['mavenJava']
     pkg {
         userOrg = 'gradle'
